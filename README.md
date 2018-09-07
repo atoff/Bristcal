@@ -1,6 +1,8 @@
 # Bristcal
 A simple python script to pull your University of Bristol course timetable into .ics (iCal) format, allowing it to be imported directly in almost every calendar app
 
+Originally based on [SotonCal](https://github.com/aliaksei135/sotoncal) by [Aliaksei Pilko](https://github.com/aliaksei135)
+
 # Installation
 1. Download and extract the source to your computer.
 2. Install [Python 3](https://www.python.org/downloads/)
